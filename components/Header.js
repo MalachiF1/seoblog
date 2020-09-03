@@ -18,7 +18,8 @@ import {
   DropdownItem,
   NavbarText
 } from 'reactstrap';
-import '.././node_modules/nprogress/nprogress.css';
+//import '.././node_modules/nprogress/nprogress.css';
+//import '../public/static/css/styles.css'; //
 import Search from './blog/Search';
 
 Router.onRouteChangeStart = url => NProgress.start();

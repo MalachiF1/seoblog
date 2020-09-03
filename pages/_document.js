@@ -27,7 +27,7 @@ class MyDocument extends Document {
             rel="stylesheet"
             href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css"
           />
-          <link rel="stylesheet" href="/static/css/styles.css" />
+          {/*<link rel="stylesheet" href="/static/css/styles.css" />*/}
           {/*<script async src="https://www.googletagmanager.com/gtag/js?id=UA-177188340-1"></script>
           <script dangerouslySetInnerHTML={{__html: this.setGoogleTags}}></script>*/}
         </Head>

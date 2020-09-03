@@ -1,6 +1,7 @@
 import Layout from '../components/Layout';
 import Link from 'next/link';
 import Head from 'next/head';
+//import '../public/static/css/styles.css'; //
 
 const Index = () => {
     return (
