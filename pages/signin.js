@@ -1,6 +1,6 @@
 import Layout from '../components/Layout';
 import { withRouter } from 'next/router';
-import SigninComponent from '../components/auth/signinComponent';
+import SigninComponent from '../components/auth/SigninComponent';
 import Head from 'next/head';
 
 const Signin = ({ router }) => {

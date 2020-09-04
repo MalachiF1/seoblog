@@ -12,7 +12,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    
     "isomorphic-fetch": "^2.2.1",
     "js-cookie": "^2.2.1",
     "jsonwebtoken": "^8.5.1",
