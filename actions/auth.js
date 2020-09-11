@@ -19,7 +19,7 @@ export const handleResponse = response => {
 };
 
 export const preSignup = (user) => {
-    return fetch(`${API}/pre-signup`, {
+	return fetch(`${API}/pre-signup`, {
         method: 'POST',
         headers: {
             Accept: 'application/json',
